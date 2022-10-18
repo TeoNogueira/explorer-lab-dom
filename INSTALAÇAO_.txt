@@ -1,0 +1,35 @@
+Comandos adicionais usados no TERMINAL: npm install
+
+importante: para executar a aplicação use o comando (npm run dev) no terminal,
+ pois estamos usando módulos do ecmascript, e por causa disso nao teremos como dar dois cliques num arquivo index.html.
+ Módulos ecmascript exige uma abordagem client/servidor.
+
+após rodar o comando npm run dev, algo parecido à isso irá mostrar no terminal:
+
+  VITE v3.1.8  ready in 226 ms
+
+  ➜  Local:   http://127.0.0.1:5173/
+  ➜  Network: use --host to expose
+
+SEGURE O CONTROL E CLIQUE APENAS NO LINK HTTP, ou copie e cole no navegador.
+
+----------x------------------------x--------------------------x----
+
+ O que são módulos ecmascript?
+
+ R= É quando queremos importar ou exportar arquivos para o javascript (.js), no exemplo desse lab-explorer temos o arquivo CSS que está sendo usado dentro do main.js. 
+
+
+ para usar módulos no Javascript, defina type dentro da tag script no html,  exemplo:
+
+ <script type="module" src="./src/main.js"></script>
+
+
+
+ ------OUTROS-------
+
+Para que serve o npm Run Dev?
+
+ O npm é uma ferramenta de linha de comando que ajuda a interagir com plataformas online, como navegadores e servidores. Essa utilidade auxilia na instalação e desinstalação de pacotes, gerenciamento da versões e gerenciamento de dependências necessárias para executar um projeto.
+
+ (By: Teo Nogueira)
