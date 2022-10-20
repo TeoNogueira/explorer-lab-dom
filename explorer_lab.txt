@@ -1,1 +1,6 @@
 git clone https://github.com/rocketseat-education/explorer-lab-01.git
+
+
+npm install imask // imask.js.org
+
+https://www.figma.com/file/qDT8Opx0tIW5uD4i7d7AiA/Explorer-Lab-%2301-(Copy)?node-id=3%3A1165
